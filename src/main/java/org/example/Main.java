@@ -5,5 +5,7 @@ public class Main {
         System.out.println("Hello world!");
         System.out.println("123");
         System.out.println("Delete");
+        System.out.println("Delete 2");
+        System.out.println("Delete 3");
     }
 }
